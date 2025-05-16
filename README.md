@@ -68,3 +68,7 @@ Good guess!
 Word:  _ A _ _ _ _
 Guessed letters: A
 ```
+
+## Video Gameplay
+
+[![asciicast](https://asciinema.org/a/PHznnPLFc0W9D9hD55hw5ja3j.svg)](https://asciinema.org/a/PHznnPLFc0W9D9hD55hw5ja3j)
